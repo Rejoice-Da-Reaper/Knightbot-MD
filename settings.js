@@ -1,7 +1,7 @@
 const settings = {
   packname: 'Knight',
   author: 'Bot',
-  botName: "Knight Bot",
+  botName: "Reaper Bot",
   botOwner: 'Rejoice', // Your name
   ownerNumber: '2349118213101', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
